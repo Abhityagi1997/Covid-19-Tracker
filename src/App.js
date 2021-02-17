@@ -108,7 +108,7 @@ function App() {
       </Card>
     </div>
     <div className='bottomText'>
-    <h4>Hey I am Aman! Our world is badly affected by this virus. I pray to God that all of you stay safe and healthy. I made this to keep track of this deadly virus handy.</h4>
+    <h4>Hi I am Abhishek! I made this to keep track of this deadly virus.</h4>
     </div>
    </div>
   );
